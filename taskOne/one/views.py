@@ -68,3 +68,4 @@ def my_name(request):
     else:
         name=Name()
     return render_to_response('myName.html',{'name':name})
+

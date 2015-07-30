@@ -23,3 +23,4 @@ urlpatterns = [
     url(r'^blog/register/$','one.views.register'),
     url(r'^admin/', include(admin.site.urls)),
 ]
+
