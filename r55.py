@@ -1,4 +1,5 @@
 #coding:utf-8
+
 class test(object):
     #5-1函数化：任务一的:用列表game列出爱好，用列表列出喜欢的食物。把两个列表连在一起，并把结果打印出来
     def favorites_1(a,b):

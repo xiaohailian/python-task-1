@@ -1,4 +1,5 @@
 #coding:utf-8
+
 class weight(object):
     # def __init__(self,weights,an_increase,years):
     #     self.weights = weights

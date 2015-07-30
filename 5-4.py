@@ -1,5 +1,6 @@
 #coding:utf-8
 #5-4计算体重，当前体重、体重的年增量和统计年数都由输入给出。
+
 def weights():
     print('请输入你当前的体重：')
     realweight = int(input())

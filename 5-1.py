@@ -29,6 +29,7 @@ def my_name(firstName,secondName):
     print(firstName.rjust(6))
     print(secondName.rjust(5))
 
+
 first_name = "肖"
 second_name = "海连"
 my_name(first_name,second_name)
